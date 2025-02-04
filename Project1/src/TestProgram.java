@@ -9,5 +9,9 @@ public class TestProgram {
 	public static int getYear() {
 		return 2025;
 	}
+	
+	public static int getDay() {
+		return 5;
+	}
 
 }
