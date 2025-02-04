@@ -5,5 +5,9 @@ public class TestProgram {
 		System.out.println("Hello");
 
 	}
+	
+	public static int getYear() {
+		return 2025;
+	}
 
 }
