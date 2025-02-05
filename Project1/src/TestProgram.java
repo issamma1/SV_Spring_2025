@@ -1,9 +1,7 @@
-
 public class TestProgram {
 
 	public static void main(String[] args) {
-		System.out.println("Bye Bye");
-
+		System.out.println("hello hello");
 	}
 	
 	public static int getYear() {
