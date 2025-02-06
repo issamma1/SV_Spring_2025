@@ -10,6 +10,11 @@ public class TestProgram {
 	
 	public static int getDay() {
 		return 5;
-	}   
+	}
+	
+	public static void printIssamName() {
+		System.out.println("Issam");
+	}
+	
   
 }
