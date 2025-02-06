@@ -9,6 +9,7 @@ public class TestProgram {
 	}
 	
 	public static int getDay() {
+		int x = 90;
 		return 5;
 	}
 	
