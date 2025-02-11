@@ -17,5 +17,8 @@ public class TestProgram {
 		System.out.println("Issam");
 	}
 	
+	public static void printFurahName() {
+		System.out.println("Furah");
+	}	
   
 }
