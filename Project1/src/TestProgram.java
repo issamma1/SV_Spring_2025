@@ -20,5 +20,7 @@ public class TestProgram {
 	public static void printFurahName() {
 		System.out.println("Furah");
 	}	
-  
+	public static void prinrSaifName() {
+		System.out.println("Saif");
+	}
 }
