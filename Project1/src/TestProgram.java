@@ -38,4 +38,8 @@ public class TestProgram {
 	{
 		System.out.println("Mohammed Ali");
 	} 
+	public static void printAliaName() {
+		System.out.println("Alia");
+	}
+
 }
