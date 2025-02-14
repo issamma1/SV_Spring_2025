@@ -28,4 +28,9 @@ public class TestProgram {
 	public static void printAdelName() {
 		System.out.println("Adel");
 	}
+
+	public static void printTaymourName()
+	{
+		System.out.println("Taymour");
+	}
 }
