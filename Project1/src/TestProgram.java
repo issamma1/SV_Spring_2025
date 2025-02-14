@@ -33,4 +33,9 @@ public class TestProgram {
 	{
 		System.out.println("Taymour");
 	}
+
+	public static void printMohammedAliName()
+	{
+		System.out.println("Mohammed Ali");
+	} 
 }
