@@ -24,4 +24,8 @@ public class TestProgram {
 	public static void prinrSaifName() {
 		System.out.println("Saif");
 	}
+
+	public static void printAdelName() {
+		System.out.println("Adel");
+	}
 }
