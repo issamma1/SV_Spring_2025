@@ -1,4 +1,4 @@
-public class Names {
+public class TestProgram {
     
     public static void main(String[] args) {
         printFarahAlQedra(); // Corrected method call
