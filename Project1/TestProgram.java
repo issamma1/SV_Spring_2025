@@ -52,4 +52,7 @@ public class TestProgram {
 	public static void printAbdullahName() {
 		System.out.println("Muhammad Abdullah");
 	}
+	public static void printYassinKashim() {
+		System.out.println("Yassin Kashim");
+	}
 }
