@@ -49,4 +49,7 @@ public class TestProgram {
 	public static void printSondos() {
         System.out.println("Sondos");
     }
+	public static void printAbdullahName() {
+		System.out.println("Muhammad Abdullah");
+	}
 }
