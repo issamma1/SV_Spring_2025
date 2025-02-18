@@ -46,4 +46,7 @@ public class TestProgram {
         System.out.println("Farah Al Qedra");
     }
 
+	public static void printSondos() {
+        System.out.println("Sondos");
+    }
 }
