@@ -61,7 +61,7 @@ public class TestProgram {
 	}
 
 	public static void printFarah() {
-		System.out.println("Farah");
+		System.out.println("Farah Al-Qedra");
 	}
 	
 }
