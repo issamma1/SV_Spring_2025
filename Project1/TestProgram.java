@@ -63,5 +63,9 @@ public class TestProgram {
 	public static void printFarah() {
 		System.out.println("Farah Al-Qedra");
 	}
+	public static viod printOsama()
+	{
+		System.out.println("osama");
+	}
 	
 }
