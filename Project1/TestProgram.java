@@ -55,4 +55,9 @@ public class TestProgram {
 	public static void printYassinKashim() {
 		System.out.println("Yassin Kashim");
 	}
+
+	public static void printMohamadqasaymeh() {
+		System.out.println("Mohamad Qasaymeh");
+	}
+	
 }
