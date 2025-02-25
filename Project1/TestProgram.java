@@ -67,5 +67,8 @@ public class TestProgram {
 	{
 		System.out.println("osama");
 	}
-	
+	public static viod printEzzEdinKhaled()
+	{
+		System.out.println("EzzEdin Khaled ");
+
 }
